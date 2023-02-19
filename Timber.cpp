@@ -3,7 +3,7 @@
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
 using namespace sf;
-
+ 
 //Function declaration 
 void updateBranches(int seed);
 
